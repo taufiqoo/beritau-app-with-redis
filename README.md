@@ -1,4 +1,4 @@
-# Beritau Challenge Week 5
+# Beritau App
 
 Express API with basic routes:
 
